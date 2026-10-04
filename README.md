@@ -1,8 +1,8 @@
-# WhiteDragon Source-Available License
+# WhiteDragon-software Source-Available License
 
 **WD-SAL v1.0**
 
-The **WhiteDragon Source-Available License (WD-SAL)** is a source-available, non-commercial software license intended to permit the use, examination, modification, and distribution of software while preserving the rights, attribution, authorship, and commercial interests of WhiteDragon.
+The **WhiteDragon-software Source-Available License (WD-SAL)** is a source-available, non-commercial software license intended to permit the use, examination, modification, and distribution of software while preserving the rights, attribution, authorship, and commercial interests of WhiteDragon-software.
 
 ## Permitted Use
 
@@ -38,22 +38,22 @@ A for-profit organization may use the software internally for:
 
 without obtaining a commercial license, provided that the software is not incorporated into, deployed as part of, or materially relied upon by a commercial product, commercial service, production system, or revenue-generating operation.
 
-If the software is incorporated into, deployed as part of, or materially relied upon by such an operation, the use constitutes Commercial Use and requires prior written permission from WhiteDragon.
+If the software is incorporated into, deployed as part of, or materially relied upon by such an operation, the use constitutes Commercial Use and requires prior written permission from WhiteDragon-software.
 
 ## Attribution and Authorship
 
-Attribution to the original software and WhiteDragon is required when the software or a derivative work is distributed, published, deployed, incorporated into another project, or otherwise made available as part of another work or system.
+Attribution to the original software and WhiteDragon-software is required when the software or a derivative work is distributed, published, deployed, incorporated into another project, or otherwise made available as part of another work or system.
 
 Copyright notices, license notices, and other attribution notices included with the software must be preserved.
 
 Where reasonably practical, attribution should identify:
 
-- WhiteDragon
+- WhiteDragon-software
 - The original project
 - The original repository or official website, where available
 - The fact that the work incorporates or derives from the software
 
-Users may add copyright notices and branding relating to their own original modifications, provided that such notices do not remove, replace, obscure, or falsely supersede the original notices belonging to WhiteDragon.
+Users may add copyright notices and branding relating to their own original modifications, provided that such notices do not remove, replace, obscure, or falsely supersede the original notices belonging to WhiteDragon-software.
 
 Users may not:
 
@@ -61,12 +61,12 @@ Users may not:
 - Represent the original software as their own work
 - Deliberately conceal the origin of the software
 - Remove or obscure the original copyright or attribution notices
-- Falsely imply endorsement, sponsorship, partnership, or affiliation with WhiteDragon
+- Falsely imply endorsement, sponsorship, partnership, or affiliation with WhiteDragon-software
 - Present a fork or derivative work as the original software without appropriate attribution
 
 ## Commercial Use
 
-Commercial Use is not permitted under the WD-SAL without prior written permission from WhiteDragon.
+Commercial Use is not permitted under the WD-SAL without prior written permission from WhiteDragon-software.
 
 Commercial Use includes, but is not limited to:
 
@@ -78,7 +78,7 @@ Commercial Use includes, but is not limited to:
 - Commercially hosting or distributing the software
 - Using the software as a material component of a paid offering
 
-WhiteDragon retains the exclusive right to authorize Commercial Use.
+WhiteDragon-software retains the exclusive right to authorize Commercial Use.
 
 For commercial licensing inquiries, contact:
 
@@ -96,7 +96,7 @@ In particular, recipients may not be granted permission to:
 
 - Make unauthorized Commercial Use
 - Remove required attribution
-- Remove WhiteDragon copyright or license notices
+- Remove WhiteDragon-software copyright or license notices
 - Claim the original software as their own
 
 Separate licensing terms may be applied to original work created by a user, provided those terms do not restrict the rights granted by the WD-SAL with respect to the original software.
@@ -105,35 +105,35 @@ Separate licensing terms may be applied to original work created by a user, prov
 
 Contributors retain ownership of their original contributions.
 
-By submitting a contribution for inclusion in the software, the contributor grants WhiteDragon a perpetual, worldwide, non-exclusive, royalty-free license to use, reproduce, modify, adapt, publish, distribute, sublicense, and otherwise use the contribution as part of the software.
+By submitting a contribution for inclusion in the software, the contributor grants WhiteDragon-software a perpetual, worldwide, non-exclusive, royalty-free license to use, reproduce, modify, adapt, publish, distribute, sublicense, and otherwise use the contribution as part of the software.
 
-WhiteDragon retains discretion regarding whether and how contributions are incorporated.
+WhiteDragon-software retains discretion regarding whether and how contributions are incorporated.
 
 ## Patent Rights
 
 The WD-SAL provides a limited patent license for permitted use.
 
-To the extent WhiteDragon owns or controls patent claims necessarily infringed by the software as provided by WhiteDragon, WhiteDragon grants a worldwide, non-exclusive, royalty-free patent license to make, use, modify, and distribute the software solely for permitted use.
+To the extent WhiteDragon-software owns or controls patent claims necessarily infringed by the software as provided by WhiteDragon-software, WhiteDragon-software grants a worldwide, non-exclusive, royalty-free patent license to make, use, modify, and distribute the software solely for permitted use.
 
-No patent license is granted for Commercial Use or for patents not owned or controlled by WhiteDragon.
+No patent license is granted for Commercial Use or for patents not owned or controlled by WhiteDragon-software.
 
 ## Patent Retaliation
 
-The patent license terminates automatically for any person or entity that initiates patent litigation or another patent proceeding against WhiteDragon or a contributor alleging that the software, a derivative work, or a contribution infringes a patent.
+The patent license terminates automatically for any person or entity that initiates patent litigation or another patent proceeding against WhiteDragon-software or a contributor alleging that the software, a derivative work, or a contribution infringes a patent.
 
 This includes infringement lawsuits, patent-related counterclaims, cross-claims, and equivalent proceedings, subject to the terms of the WD-SAL.
 
 ## Trademarks
 
-The WD-SAL does not grant rights to WhiteDragon trademarks, trade names, logos, or other branding except as reasonably necessary to identify the software or provide the required attribution.
+The WD-SAL does not grant rights to WhiteDragon-software trademarks, trade names, logos, or other branding except as reasonably necessary to identify the software or provide the required attribution.
 
-Such branding may not be used in a manner that falsely implies endorsement, sponsorship, partnership, or official affiliation with WhiteDragon.
+Such branding may not be used in a manner that falsely implies endorsement, sponsorship, partnership, or official affiliation with WhiteDragon-software.
 
 ## Disclaimer of Warranty
 
 The software is provided "AS IS", "AS AVAILABLE", and "WITH ALL FAULTS".
 
-To the maximum extent permitted by applicable law, WhiteDragon and its contributors disclaim all warranties, representations, guarantees, and conditions, whether express, implied, statutory, or otherwise, including warranties or conditions relating to:
+To the maximum extent permitted by applicable law, WhiteDragon-software and its contributors disclaim all warranties, representations, guarantees, and conditions, whether express, implied, statutory, or otherwise, including warranties or conditions relating to:
 
 - Merchantability
 - Fitness for a particular purpose
@@ -145,13 +145,13 @@ To the maximum extent permitted by applicable law, WhiteDragon and its contribut
 - Availability
 - Performance
 
-WhiteDragon does not warrant that the software will be error-free, secure, accurate, continuously available, compatible with any particular system, or suitable for any particular purpose.
+WhiteDragon-software does not warrant that the software will be error-free, secure, accurate, continuously available, compatible with any particular system, or suitable for any particular purpose.
 
 Users assume all risks arising from their use, misuse, modification, distribution, deployment, integration, or reliance upon the software.
 
 ## Limitation of Liability
 
-To the maximum extent permitted by applicable law, WhiteDragon and its contributors shall not be liable for any claim, damage, loss, cost, expense, liability, or other consequence arising from or relating to the software or the WD-SAL.
+To the maximum extent permitted by applicable law, WhiteDragon-software and its contributors shall not be liable for any claim, damage, loss, cost, expense, liability, or other consequence arising from or relating to the software or the WD-SAL.
 
 This includes, without limitation:
 
@@ -166,20 +166,20 @@ This includes, without limitation:
 - Consequences resulting from decisions made in reliance upon the software or its output
 - Any other direct, indirect, incidental, special, consequential, or similar damages
 
-Nothing in the WD-SAL creates a duty of care, fiduciary duty, support obligation, maintenance obligation, or other duty on the part of WhiteDragon or its contributors.
+Nothing in the WD-SAL creates a duty of care, fiduciary duty, support obligation, maintenance obligation, or other duty on the part of WhiteDragon-software or its contributors.
 
 No provision of the WD-SAL excludes or limits liability to the extent such liability cannot lawfully be excluded or limited.
 
 ## Indemnification
 
-To the maximum extent permitted by applicable law, users agree to defend, indemnify, and hold harmless WhiteDragon and its contributors from third-party claims, damages, liabilities, costs, and reasonable legal expenses arising directly from:
+To the maximum extent permitted by applicable law, users agree to defend, indemnify, and hold harmless WhiteDragon-software and its contributors from third-party claims, damages, liabilities, costs, and reasonable legal expenses arising directly from:
 
 - Unlawful use of the software
 - Unauthorized Commercial Use
 - Violation of the WD-SAL
 - Modification or distribution of the software in violation of the WD-SAL
 
-This indemnification does not apply to claims arising solely from the unmodified software as distributed by WhiteDragon.
+This indemnification does not apply to claims arising solely from the unmodified software as distributed by WhiteDragon-software.
 
 ## Termination
 
@@ -189,7 +189,7 @@ Upon termination, the affected party must cease exercising the rights granted by
 
 Termination does not retroactively invalidate rights lawfully granted to third parties before termination.
 
-WhiteDragon may reinstate rights or grant additional permissions in writing.
+WhiteDragon-software may reinstate rights or grant additional permissions in writing.
 
 ## Governing Law
 
@@ -201,12 +201,12 @@ To the maximum extent permitted by law, legal actions arising from or relating t
 
 This project is licensed under the:
 
-**WhiteDragon Source-Available License v1.0 (WD-SAL v1.0)**
+**WhiteDragon-software Source-Available License v1.0 (WD-SAL v1.0)**
 
-The complete license terms are available in the [LICENSE](LICENSE) file.
+The complete license terms are available in the [WD-NCL-v1.0](WD-NCL-v1.0) file.
 
 For commercial licensing inquiries:
 
 **info@whitedragon.software**
 
-Copyright (c) 2026-2030 WhiteDragon. All rights reserved.
+Copyright (c) 2026-2030 WhiteDragon-software. All rights reserved.
