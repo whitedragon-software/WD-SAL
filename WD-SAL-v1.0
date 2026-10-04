@@ -1,0 +1,242 @@
+WhiteDragon-software Source-Available License v1.0
+
+WD-SAL v1.0
+
+Copyright (c) 2026-2030 WhiteDragon-software
+
+1. Grant of Rights
+
+Permission is hereby granted, free of charge, to any person or entity obtaining a copy of this Software and associated documentation files (the "Software"), to use, copy, inspect, study, modify, merge, publish, and distribute the Software and derivative works, subject to the terms and conditions of this license.
+
+This license does not transfer ownership of the Software or any intellectual property rights in the Software.
+
+2. Definitions
+
+"Copyright Holder" means WhiteDragon-software and any other copyright holder identified in the Software.
+
+"Derivative Work" means a work based upon, incorporating, modifying, adapting, or otherwise substantially derived from the Software, to the extent recognized as such under applicable copyright law.
+
+"Commercial Use" means use primarily for commercial advantage, monetary compensation, revenue generation, or as part of a commercial product, service, or production system.
+
+Commercial Use includes selling, licensing, renting, leasing, commercially distributing, commercially hosting, or incorporating the Software into a commercial product or service.
+
+Commercial Use does not include internal evaluation, testing, research, experimentation, development, or prototyping by a for-profit organization where the Software is not deployed as part of a commercial product, service, production system, or revenue-generating operation.
+
+"Permitted Use" means any use that is not Commercial Use and complies with this license.
+
+3. Permitted Use
+
+You may freely use, copy, inspect, study, modify, merge, and distribute the Software and Derivative Works for Permitted Use, including:
+
+- Personal use
+- Education
+- Academic or scientific research
+- Nonprofit use
+- Evaluation and testing
+- Internal research and experimentation
+- Development and prototyping
+- Forking and modification
+- Creation of Derivative Works
+
+No fee or royalty is required for Permitted Use.
+
+4. Internal Use by For-Profit Organizations
+
+A for-profit organization may use the Software internally for evaluation, testing, research, experimentation, development, or prototyping without obtaining a commercial license.
+
+The mere fact that an organization is operated for profit does not make its internal use Commercial Use.
+
+However, if the Software or a Derivative Work is incorporated into, deployed as part of, or materially relied upon by a commercial product, service, production system, or revenue-generating operation, that use constitutes Commercial Use and requires prior written permission under Section 5.
+
+5. Commercial Use
+
+Commercial Use is prohibited unless the Copyright Holder has granted prior written permission.
+
+The Copyright Holder reserves the exclusive right to authorize Commercial Use.
+
+Commercial licensing inquiries may be directed to:
+
+info@whitedragon.software
+
+A separate commercial license may grant rights beyond those provided by this license.
+
+Unless expressly waived in writing by the Copyright Holder, all attribution and authorship requirements remain applicable to authorized Commercial Use.
+
+6. Attribution and Copyright
+
+You must retain all copyright, license, attribution, and other notices identifying the Copyright Holder included with the Software.
+
+If you distribute, publish, deploy, incorporate, or otherwise make the Software or a Derivative Work available as part of another project, you must provide clear and reasonably prominent attribution to the original Software and Copyright Holder.
+
+Where reasonably practical, attribution should identify:
+
+- WhiteDragon-software
+- The original project
+- The original repository or official website, if available
+- That the work incorporates or derives from the Software
+
+Attribution may be provided in source code, documentation, a NOTICE file, credits, an about page, or another location reasonably appropriate to the distribution.
+
+You may not remove, obscure, replace, or alter the Copyright Holder's notices in a manner that falsely represents ownership or authorship.
+
+7. Preservation of Authorship
+
+You may modify, fork, adapt, and build upon the Software.
+
+You may claim copyright in your original modifications to the extent permitted by law.
+
+You may not:
+
+- Claim that you originally created the Software
+- Represent the original Software as your own work
+- Deliberately conceal the Software's origin
+- Remove or obscure its original copyright or attribution
+- Falsely imply that the Copyright Holder endorses your work
+- Present a fork or Derivative Work as the original Software without appropriate attribution
+
+Your own copyright notices and branding may be added, but may not replace or obscure notices belonging to the Copyright Holder.
+
+8. Distribution and Relicensing
+
+Modified versions and Derivative Works may be distributed for Permitted Use.
+
+You may not sublicense, relicense, or redistribute the Software under terms that remove, weaken, or conflict with this license.
+
+In particular, you may not grant recipients permission to:
+
+- Make unauthorized Commercial Use
+- Remove required attribution
+- Remove Copyright Holder notices
+- Claim the original Software as their own
+
+You may apply separate terms to your own original work provided those terms do not restrict the rights granted by this license to the original Software.
+
+9. Contributions
+
+You retain ownership of original contributions you submit to the Software.
+
+By submitting a contribution for inclusion in the Software, you grant the Copyright Holder a perpetual, worldwide, non-exclusive, royalty-free license to use, reproduce, modify, adapt, publish, distribute, sublicense, and otherwise use that contribution as part of the Software.
+
+The Copyright Holder may determine whether and how contributions are incorporated.
+
+Reasonable attribution should be provided for incorporated contributions.
+
+10. Patent License
+
+To the extent the Copyright Holder owns or controls patent claims necessarily infringed by the Software as provided by the Copyright Holder, the Copyright Holder grants you a worldwide, non-exclusive, royalty-free patent license to make, use, modify, and distribute the Software solely for Permitted Use.
+
+No patent license is granted for Commercial Use or for patents not owned or controlled by the Copyright Holder.
+
+11. Patent Retaliation
+
+The patent license in Section 10 automatically terminates for any person or entity that initiates patent litigation or another patent proceeding against the Copyright Holder or a contributor alleging that the Software, a Derivative Work, or a contribution infringes a patent.
+
+This includes infringement lawsuits, patent-related counterclaims, cross-claims, and equivalent proceedings.
+
+This section does not restrict a person's right to defend against a patent claim brought by the Copyright Holder or a contributor.
+
+12. Trademarks
+
+This license does not grant rights to the Copyright Holder's trademarks, trade names, logos, or other branding except as reasonably necessary for attribution or identification of the Software.
+
+You may not use such branding to falsely imply endorsement, sponsorship, partnership, or official affiliation.
+
+13. Disclaimer of Warranty
+
+THE SOFTWARE IS PROVIDED "AS IS", "AS AVAILABLE", AND "WITH ALL FAULTS".
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE COPYRIGHT HOLDER AND CONTRIBUTORS DISCLAIM ALL WARRANTIES, REPRESENTATIONS, GUARANTEES, AND CONDITIONS, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE, INCLUDING MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, NON-INFRINGEMENT, SECURITY, ACCURACY, RELIABILITY, AVAILABILITY, AND PERFORMANCE.
+
+THE COPYRIGHT HOLDER DOES NOT WARRANT THAT THE SOFTWARE WILL BE ERROR-FREE, SECURE, ACCURATE, AVAILABLE, COMPATIBLE, OR SUITABLE FOR ANY PARTICULAR PURPOSE.
+
+YOU ASSUME ALL RISK ARISING FROM YOUR USE, MISUSE, MODIFICATION, DISTRIBUTION, DEPLOYMENT, INTEGRATION, OR RELIANCE UPON THE SOFTWARE.
+
+THE COPYRIGHT HOLDER AND CONTRIBUTORS ASSUME NO LEGAL, FINANCIAL, COMMERCIAL, OPERATIONAL, SECURITY, ETHICAL, OR OTHER RESPONSIBILITY OR DUTY ARISING FROM YOUR USE OF THE SOFTWARE.
+
+14. Limitation of Liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE COPYRIGHT HOLDER AND CONTRIBUTORS SHALL NOT BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY CLAIM, DAMAGE, LOSS, COST, EXPENSE, LIABILITY, OR OTHER CONSEQUENCE ARISING FROM OR RELATED TO THE SOFTWARE OR THIS LICENSE.
+
+This includes:
+
+- Use or misuse of the Software
+- Modification or integration
+- Distribution or deployment
+- Software errors or failures
+- Security vulnerabilities
+- Data loss or corruption
+- System failure
+- Business interruption
+- Loss of profits or revenue
+- Loss of business opportunity
+- Personal or property damage
+- Decisions made in reliance upon the Software or its output
+
+THIS LIMITATION APPLIES REGARDLESS OF LEGAL THEORY, INCLUDING CONTRACT, TORT, NEGLIGENCE, STRICT LIABILITY, WARRANTY, OR OTHERWISE, EVEN IF THE COPYRIGHT HOLDER OR A CONTRIBUTOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+YOU AGREE NOT TO ASSERT THAT THE COPYRIGHT HOLDER OR A CONTRIBUTOR IS RESPONSIBLE FOR CONSEQUENCES ARISING FROM YOUR USE OF THE SOFTWARE, EXCEPT TO THE EXTENT SUCH LIABILITY CANNOT LAWFULLY BE EXCLUDED.
+
+NOTHING IN THIS LICENSE CREATES A DUTY OF CARE, FIDUCIARY DUTY, SUPPORT OBLIGATION, MAINTENANCE OBLIGATION, OR OTHER DUTY ON THE PART OF THE COPYRIGHT HOLDER OR CONTRIBUTORS.
+
+NOTHING IN THIS LICENSE EXCLUDES OR LIMITS LIABILITY THAT CANNOT LAWFULLY BE EXCLUDED OR LIMITED.
+
+15. Indemnification
+
+To the maximum extent permitted by applicable law, you agree to defend, indemnify, and hold harmless the Copyright Holder and contributors from third-party claims, damages, liabilities, costs, and reasonable legal expenses arising directly from:
+
+- Your unlawful use of the Software
+- Your unauthorized Commercial Use
+- Your violation of this license
+- Your modification or distribution of the Software in violation of this license
+
+This does not apply to claims arising solely from the unmodified Software as distributed by the Copyright Holder.
+
+16. Termination
+
+Your rights under this license terminate automatically upon material breach.
+
+Upon termination, you must cease exercising the rights granted by this license and cease further distribution or use of the Software to the extent required by applicable law.
+
+Termination does not retroactively invalidate rights lawfully granted to third parties before termination.
+
+The Copyright Holder may reinstate rights or grant additional permissions in writing.
+
+Sections concerning ownership, attribution, authorship, trademarks, warranties, liability, indemnification, and provisions that by their nature should survive termination shall survive termination.
+
+17. Severability
+
+If any provision of this license is held invalid or unenforceable, it shall be enforced to the maximum extent permitted by law or severed to the minimum extent necessary, and the remaining provisions shall remain in effect.
+
+18. No Waiver
+
+Failure by the Copyright Holder to enforce any provision of this license does not waive that provision or the right to enforce it later.
+
+Any waiver must be expressly granted in writing.
+
+19. Governing Law and Venue
+
+This license shall be governed by the laws of the State of California, United States, without regard to conflict-of-laws principles.
+
+To the maximum extent permitted by law, legal actions arising from or relating to this license shall be brought exclusively in the state or federal courts located in San Francisco, California.
+
+You consent to the jurisdiction and venue of those courts.
+
+20. Reservation of Rights
+
+All rights not expressly granted by this license are reserved by the Copyright Holder.
+
+No rights are granted by implication, estoppel, or otherwise.
+
+21. Entire Agreement
+
+This license constitutes the complete terms governing the rights granted with respect to the Software.
+
+No additional rights are granted except by a separate written agreement with the Copyright Holder.
+
+END OF WD-SAL v1.0
+
+For commercial licensing inquiries:
+
+info@whitedragon.software
+
+Copyright (c) 2026-2030 WhiteDragon-software. All rights reserved.
